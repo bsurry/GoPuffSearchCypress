@@ -8,7 +8,7 @@ Install NodeJS from https://nodejs.org/ (or verify version is > 8)
 
 pull down code from git
 
-In the GOPUFF_SEARCH folder, install cypress:
+At the highest level folder, install cypress:
 
 `npm install cypress`
 
