@@ -1,0 +1,131 @@
+{
+    "search_meta": {
+      "alerts": [],
+      "warnings": [],
+      "page": {
+        "total_pages": 1,
+        "total_results": 1,
+        "page": 1,
+        "page_size": 30
+      },
+      "request_id": "e0692e81e1e808dbfeafb3564859d211",
+      "text": "x",
+      "location_id": "6",
+      "callout_category": null
+    },
+    "products": [
+      {
+        "product_id": 1331,
+        "description": "<p style=\"text-align: center;\">Donuts but cuter.</p>",
+        "name": "Hostess Donettes Powdered Mini Donuts 6ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_donettes_powdered_mini_donuts_6ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 76,
+        "subcategory": "Breakfast in Bed",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Donut",
+        "parent_company": "Hostess",
+        "brand": "Donettes",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109050047"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 81,
+        "badges": [],
+        "quantity": 81,
+        "score": 183.56358,
+        "order": 0
+      }
+    ],
+    "facets": {
+      "class": {
+        "Pastry": {
+          "products": [
+            {
+              "product_id": 1331,
+              "description": "<p style=\"text-align: center;\">Donuts but cuter.</p>",
+              "name": "Hostess Donettes Powdered Mini Donuts 6ct",
+              "price": 2.29,
+              "puffprice": 0,
+              "available_for_bonus": false,
+              "offer": null,
+              "slug": "hostess_donettes_powdered_mini_donuts_6ct",
+              "category_id": 20,
+              "category": "Munchies",
+              "subcategory_id": 76,
+              "subcategory": "Breakfast in Bed",
+              "dept": "Snacks",
+              "class": "Pastry",
+              "family": "Donut",
+              "parent_company": "Hostess",
+              "brand": "Donettes",
+              "size": null,
+              "images": [
+                {
+                  "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+                  "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+                  "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+                  "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+                }
+              ],
+              "kind": "ordinary",
+              "is_tobacco": 0,
+              "upc": [
+                "888109050047"
+              ],
+              "avatar": {
+                "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+                "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+                "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+                "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+              },
+              "is_discontinued": 0,
+              "is_hidden_from_search": 0,
+              "confirmed": 1,
+              "tax_id": "26316",
+              "bundle": false,
+              "amount": 81,
+              "badges": [],
+              "quantity": 81,
+              "score": 183.56358,
+              "order": 0
+            }
+          ],
+          "total_score": 566.02703949999989,
+          "total": 10,
+          "max_score": 566.02703949999989,
+          "min_score": 6.296037,
+          "score": 56,
+          "self": "/api/products?location_id=6&text=hostess%20donettes&class=Pastry"
+        }
+
+      }
+    }
+  }

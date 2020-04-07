@@ -1,0 +1,874 @@
+{
+    "search_meta": {
+      "alerts": [],
+      "warnings": [],
+      "page": {
+        "total_pages": 1,
+        "total_results": 14,
+        "page": 1,
+        "page_size": 30
+      },
+      "request_id": "e0692e81e1e808dbfeafb3564859d211",
+      "text": "hostess donettes",
+      "location_id": "6",
+      "callout_category": null
+    },
+    "products": [
+      {
+        "product_id": 1331,
+        "description": "<p style=\"text-align: center;\">Donuts but cuter.</p>",
+        "name": "Hostess Donettes Powdered Mini Donuts 6ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_donettes_powdered_mini_donuts_6ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 76,
+        "subcategory": "Breakfast in Bed",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Donut",
+        "parent_company": "Hostess",
+        "brand": "Donettes",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109050047"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 81,
+        "badges": [],
+        "quantity": 81,
+        "score": 183.56358,
+        "order": 0
+      },
+      {
+        "product_id": 1332,
+        "description": "<p style=\"text-align: center;\">Donettes - donuts' cute little sister.</p>",
+        "name": "Hostess Donettes Mini Donuts Chocolate Frosted 6ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_donettes_mini_donuts_chocolate_frosted_6ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 76,
+        "subcategory": "Breakfast in Bed",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Donut",
+        "parent_company": "Hostess",
+        "brand": "Donettes",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/small/Hostess_ChocoFrosted.jpg?1509545599",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/thumb/Hostess_ChocoFrosted.jpg?1509545599",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/medium/Hostess_ChocoFrosted.jpg?1509545599",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/xlarge/Hostess_ChocoFrosted.jpg?1509545599"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109050023"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/small/Hostess_ChocoFrosted.jpg?1509545599",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/thumb/Hostess_ChocoFrosted.jpg?1509545599",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/medium/Hostess_ChocoFrosted.jpg?1509545599",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/016/161/xlarge/Hostess_ChocoFrosted.jpg?1509545599"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 76,
+        "badges": [],
+        "quantity": 76,
+        "score": 132.48119,
+        "order": 1
+      },
+      {
+        "product_id": 5421,
+        "description": "<p style=\"text-align: center;\">Add some crunch to your brunch.</p>",
+        "name": "Hostess Donettes Mini Crunch Donuts 6ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_donettes_mini_crunch_donuts_6ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 76,
+        "subcategory": "Breakfast in Bed",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Donut",
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/small/hsotess_donettes_crunch.jpg?1487717512",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/thumb/hsotess_donettes_crunch.jpg?1487717512",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/medium/hsotess_donettes_crunch.jpg?1487717512",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/xlarge/hsotess_donettes_crunch.jpg?1487717512"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109050054"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/small/hsotess_donettes_crunch.jpg?1487717512",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/thumb/hsotess_donettes_crunch.jpg?1487717512",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/medium/hsotess_donettes_crunch.jpg?1487717512",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/011/677/xlarge/hsotess_donettes_crunch.jpg?1487717512"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "16136",
+        "bundle": false,
+        "amount": 14,
+        "badges": [],
+        "quantity": 14,
+        "score": 91.20212,
+        "order": 2
+      },
+      {
+        "product_id": 19397,
+        "description": null,
+        "name": "Hostess Powdered Donettes 10.5oz",
+        "price": 4.49,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_powdered_donettes_10_5oz",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/small/19397.jpg?1585685355",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/thumb/19397.jpg?1585685355",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/medium/19397.jpg?1585685355",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/xlarge/19397.jpg?1585685355"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109150044"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/small/19397.jpg?1585685355",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/thumb/19397.jpg?1585685355",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/medium/19397.jpg?1585685355",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/038/xlarge/19397.jpg?1585685355"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": null,
+        "bundle": false,
+        "amount": 11,
+        "badges": [
+          "NEW"
+        ],
+        "quantity": 11,
+        "score": 54.45333,
+        "order": 3
+      },
+      {
+        "product_id": 1512,
+        "description": "<p style=\"text-align: center;\">Twinkie Twinkie little star, soon in my mouth I hope you are.</p>",
+        "name": "Hostess Twinkies 2ct",
+        "price": 1.99,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_twinkies_2ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Cake",
+        "parent_company": "Hostess",
+        "brand": "Twinkie",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/small/1512_0893.jpg?1541663840",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/thumb/1512_0893.jpg?1541663840",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/medium/1512_0893.jpg?1541663840",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/xlarge/1512_0893.jpg?1541663840"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/847/small/1512_0894.jpg?1541663842",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/847/thumb/1512_0894.jpg?1541663842",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/847/medium/1512_0894.jpg?1541663842",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/847/xlarge/1512_0894.jpg?1541663842"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/848/small/1512_0895.jpg?1541663844",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/848/thumb/1512_0895.jpg?1541663844",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/848/medium/1512_0895.jpg?1541663844",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/848/xlarge/1512_0895.jpg?1541663844"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109010102"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/small/1512_0893.jpg?1541663840",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/thumb/1512_0893.jpg?1541663840",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/medium/1512_0893.jpg?1541663840",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/022/846/xlarge/1512_0893.jpg?1541663840"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 153,
+        "badges": [],
+        "quantity": 153,
+        "score": 27.122665,
+        "order": 4
+      },
+      {
+        "product_id": 14483,
+        "description": "",
+        "name": "Hostess Chocolate Cupcakes 2ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_chocolate_cupcakes_2ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/small/chocolate.jpg?1572881572",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/thumb/chocolate.jpg?1572881572",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/medium/chocolate.jpg?1572881572",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/xlarge/chocolate.jpg?1572881572"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109010010"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/small/chocolate.jpg?1572881572",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/thumb/chocolate.jpg?1572881572",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/medium/chocolate.jpg?1572881572",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/032/193/xlarge/chocolate.jpg?1572881572"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 99,
+        "badges": [],
+        "quantity": 99,
+        "score": 24.00018,
+        "order": 5
+      },
+      {
+        "product_id": 1403,
+        "description": "<p style=\"text-align: center;\">So good, Santa requests them by name.</p>",
+        "name": "Hostess Hoho's 3ct",
+        "price": 1.99,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_hoho_s_3ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": "Cake",
+        "parent_company": "Hostess",
+        "brand": "Hoho's",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/small/Hostess_HoHos.jpg?1476909142",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/thumb/Hostess_HoHos.jpg?1476909142",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/medium/Hostess_HoHos.jpg?1476909142",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/xlarge/Hostess_HoHos.jpg?1476909142"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109010065"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/small/Hostess_HoHos.jpg?1476909142",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/thumb/Hostess_HoHos.jpg?1476909142",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/medium/Hostess_HoHos.jpg?1476909142",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/008/936/xlarge/Hostess_HoHos.jpg?1476909142"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 212,
+        "badges": [],
+        "quantity": 212,
+        "score": 22.01436,
+        "order": 6
+      },
+      {
+        "product_id": 14484,
+        "description": "",
+        "name": "Hostess Birthday Cake Cupcakes 2ct",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_birthday_cake_cupcakes_2ct",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/small/birthday.jpg?1571263871",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/thumb/birthday.jpg?1571263871",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/medium/birthday.jpg?1571263871",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/xlarge/birthday.jpg?1571263871"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109012106"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/small/birthday.jpg?1571263871",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/thumb/birthday.jpg?1571263871",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/medium/birthday.jpg?1571263871",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/031/780/xlarge/birthday.jpg?1571263871"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26316",
+        "bundle": false,
+        "amount": 24,
+        "badges": [],
+        "quantity": 24,
+        "score": 15.670165,
+        "order": 7
+      },
+      {
+        "product_id": 4345,
+        "description": "<p style=\"text-align: center;\">The greatest invention since sliced bread.... oh wait.</p>",
+        "name": "Hostess Classic White Bread",
+        "price": 5.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_classic_white_bread",
+        "category_id": 39,
+        "category": "Eats",
+        "subcategory_id": 23,
+        "subcategory": "Carbs",
+        "dept": "Food",
+        "class": "Bread",
+        "family": "White Bread",
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/small/4345_0978.jpg?1550621039",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/thumb/4345_0978.jpg?1550621039",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/medium/4345_0978.jpg?1550621039",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/xlarge/4345_0978.jpg?1550621039"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/small/4345_0979.jpg?1550621069",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/thumb/4345_0979.jpg?1550621069",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/medium/4345_0979.jpg?1550621069",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/xlarge/4345_0979.jpg?1550621069"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109110956"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/small/4345_0978.jpg?1550621039",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/thumb/4345_0978.jpg?1550621039",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/medium/4345_0978.jpg?1550621039",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/xlarge/4345_0978.jpg?1550621039"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26314",
+        "bundle": false,
+        "amount": 0,
+        "badges": [],
+        "quantity": 0,
+        "score": 14.29109,
+        "order": 8
+      },
+      {
+        "product_id": 13027,
+        "description": "<p style=\"text-align: center;\">The hostess with the mostest orders hostess.</p>",
+        "name": "Hostess Hamburger Buns 8ct",
+        "price": 4.49,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_hamburger_buns_8ct",
+        "category_id": 39,
+        "category": "Eats",
+        "subcategory_id": 23,
+        "subcategory": "Carbs",
+        "dept": "Food",
+        "class": "Bread",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/small/hostesshamburgerbuns8ct.jpg?1558796057",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/thumb/hostesshamburgerbuns8ct.jpg?1558796057",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/medium/hostesshamburgerbuns8ct.jpg?1558796057",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/xlarge/hostesshamburgerbuns8ct.jpg?1558796057"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/984/small/hostesshamburgerbuns8ct.jpg?1558796111",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/984/thumb/hostesshamburgerbuns8ct.jpg?1558796111",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/984/medium/hostesshamburgerbuns8ct.jpg?1558796111",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/984/xlarge/hostesshamburgerbuns8ct.jpg?1558796111"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109110987"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/small/hostesshamburgerbuns8ct.jpg?1558796057",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/thumb/hostesshamburgerbuns8ct.jpg?1558796057",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/medium/hostesshamburgerbuns8ct.jpg?1558796057",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/028/983/xlarge/hostesshamburgerbuns8ct.jpg?1558796057"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "16136",
+        "bundle": false,
+        "amount": 0,
+        "badges": [],
+        "quantity": 0,
+        "score": 9.240069,
+        "order": 9
+      },
+      {
+        "product_id": 19389,
+        "description": null,
+        "name": "Hostess Iced Honey Bun 4.75oz",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_iced_honey_bun_4_75oz",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/small/19389.jpg?1585685425",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/thumb/19389.jpg?1585685425",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/medium/19389.jpg?1585685425",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/xlarge/19389.jpg?1585685425"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109010676"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/small/19389.jpg?1585685425",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/thumb/19389.jpg?1585685425",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/medium/19389.jpg?1585685425",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/039/xlarge/19389.jpg?1585685425"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": null,
+        "bundle": false,
+        "amount": 59,
+        "badges": [
+          "NEW"
+        ],
+        "quantity": 59,
+        "score": 9.2234125,
+        "order": 10
+      },
+      {
+        "product_id": 7874,
+        "description": "<p style=\"text-align: center;\">Toast your buns on the grill for a few to add a nice crunch to your hot dog.</p>",
+        "name": "Hostess Hot Dog Buns 8ct",
+        "price": 4.49,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_hot_dog_buns_8ct",
+        "category_id": 39,
+        "category": "Eats",
+        "subcategory_id": 23,
+        "subcategory": "Carbs",
+        "dept": "Food",
+        "class": "Bread",
+        "family": "Buns",
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/small/Hostess_Buns.jpg?1525815002",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/thumb/Hostess_Buns.jpg?1525815002",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/medium/Hostess_Buns.jpg?1525815002",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/xlarge/Hostess_Buns.jpg?1525815002"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109110970"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/small/Hostess_Buns.jpg?1525815002",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/thumb/Hostess_Buns.jpg?1525815002",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/medium/Hostess_Buns.jpg?1525815002",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/017/949/xlarge/Hostess_Buns.jpg?1525815002"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "16136",
+        "bundle": false,
+        "amount": 0,
+        "badges": [],
+        "quantity": 0,
+        "score": 9.032109,
+        "order": 11
+      },
+      {
+        "product_id": 19388,
+        "description": "",
+        "name": "Hostess Vanilla Zinger Cake Slices 3.81oz",
+        "price": 2.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_vanilla_zinger_cake_slices_3_81oz",
+        "category_id": 20,
+        "category": "Munchies",
+        "subcategory_id": 195,
+        "subcategory": "Baked",
+        "dept": "Snacks",
+        "class": "Pastry",
+        "family": null,
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/small/19388.jpg?1585685167",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/thumb/19388.jpg?1585685167",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/medium/19388.jpg?1585685167",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/xlarge/19388.jpg?1585685167"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109010119"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/small/19388.jpg?1585685167",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/thumb/19388.jpg?1585685167",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/medium/19388.jpg?1585685167",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/035/036/xlarge/19388.jpg?1585685167"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": null,
+        "bundle": false,
+        "amount": 15,
+        "badges": [
+          "NEW"
+        ],
+        "quantity": 15,
+        "score": 6.296037,
+        "order": 12
+      },
+      {
+        "product_id": 4321,
+        "description": "<p style=\"text-align: center;\">For the Hostess with the mostest.</p>",
+        "name": "Hostess Classic Wheat",
+        "price": 5.29,
+        "puffprice": 0,
+        "available_for_bonus": false,
+        "offer": null,
+        "slug": "hostess_classic_wheat",
+        "category_id": 39,
+        "category": "Eats",
+        "subcategory_id": 23,
+        "subcategory": "Carbs",
+        "dept": "Food",
+        "class": "Bread",
+        "family": "White Bread",
+        "parent_company": "Hostess",
+        "brand": "Hostess",
+        "size": null,
+        "images": [
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/small/4321_0981.jpg?1544620735",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/thumb/4321_0981.jpg?1544620735",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/medium/4321_0981.jpg?1544620735",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/xlarge/4321_0981.jpg?1544620735"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/251/small/4321_0982.jpg?1544620737",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/251/thumb/4321_0982.jpg?1544620737",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/251/medium/4321_0982.jpg?1544620737",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/251/xlarge/4321_0982.jpg?1544620737"
+          },
+          {
+            "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/252/small/4321_0983.jpg?1544620739",
+            "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/252/thumb/4321_0983.jpg?1544620739",
+            "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/252/medium/4321_0983.jpg?1544620739",
+            "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/252/xlarge/4321_0983.jpg?1544620739"
+          }
+        ],
+        "kind": "ordinary",
+        "is_tobacco": 0,
+        "upc": [
+          "888109110963"
+        ],
+        "avatar": {
+          "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/small/4321_0981.jpg?1544620735",
+          "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/thumb/4321_0981.jpg?1544620735",
+          "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/medium/4321_0981.jpg?1544620735",
+          "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/024/250/xlarge/4321_0981.jpg?1544620735"
+        },
+        "is_discontinued": 0,
+        "is_hidden_from_search": 0,
+        "confirmed": 1,
+        "tax_id": "26314",
+        "bundle": false,
+        "amount": 0,
+        "badges": [],
+        "quantity": 0,
+        "score": 4.3785467,
+        "order": 13
+      }
+    ],
+    "facets": {
+      "class": {
+        "Pastry": {
+          "products": [
+            {
+              "product_id": 1331,
+              "description": "<p style=\"text-align: center;\">Donuts but cuter.</p>",
+              "name": "Hostess Donettes Powdered Mini Donuts 6ct",
+              "price": 2.29,
+              "puffprice": 0,
+              "available_for_bonus": false,
+              "offer": null,
+              "slug": "hostess_donettes_powdered_mini_donuts_6ct",
+              "category_id": 20,
+              "category": "Munchies",
+              "subcategory_id": 76,
+              "subcategory": "Breakfast in Bed",
+              "dept": "Snacks",
+              "class": "Pastry",
+              "family": "Donut",
+              "parent_company": "Hostess",
+              "brand": "Donettes",
+              "size": null,
+              "images": [
+                {
+                  "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+                  "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+                  "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+                  "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+                }
+              ],
+              "kind": "ordinary",
+              "is_tobacco": 0,
+              "upc": [
+                "888109050047"
+              ],
+              "avatar": {
+                "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/small/hostess.jpg?1543612685",
+                "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/thumb/hostess.jpg?1543612685",
+                "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/medium/hostess.jpg?1543612685",
+                "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/023/827/xlarge/hostess.jpg?1543612685"
+              },
+              "is_discontinued": 0,
+              "is_hidden_from_search": 0,
+              "confirmed": 1,
+              "tax_id": "26316",
+              "bundle": false,
+              "amount": 81,
+              "badges": [],
+              "quantity": 81,
+              "score": 183.56358,
+              "order": 0
+            }
+          ],
+          "total_score": 566.02703949999989,
+          "total": 10,
+          "max_score": 566.02703949999989,
+          "min_score": 6.296037,
+          "score": 56,
+          "self": "/api/products?location_id=6&text=hostess%20donettes&class=Pastry"
+        },
+        "Bread": {
+          "products": [
+            {
+              "product_id": 4345,
+              "description": "<p style=\"text-align: center;\">The greatest invention since sliced bread.... oh wait.</p>",
+              "name": "Hostess Classic White Bread",
+              "price": 5.29,
+              "puffprice": 0,
+              "available_for_bonus": false,
+              "offer": null,
+              "slug": "hostess_classic_white_bread",
+              "category_id": 39,
+              "category": "Eats",
+              "subcategory_id": 23,
+              "subcategory": "Carbs",
+              "dept": "Food",
+              "class": "Bread",
+              "family": "White Bread",
+              "parent_company": "Hostess",
+              "brand": "Hostess",
+              "size": null,
+              "images": [
+                {
+                  "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/small/4345_0978.jpg?1550621039",
+                  "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/thumb/4345_0978.jpg?1550621039",
+                  "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/medium/4345_0978.jpg?1550621039",
+                  "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/xlarge/4345_0978.jpg?1550621039"
+                },
+                {
+                  "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/small/4345_0979.jpg?1550621069",
+                  "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/thumb/4345_0979.jpg?1550621069",
+                  "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/medium/4345_0979.jpg?1550621069",
+                  "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/028/xlarge/4345_0979.jpg?1550621069"
+                }
+              ],
+              "kind": "ordinary",
+              "is_tobacco": 0,
+              "upc": [
+                "888109110956"
+              ],
+              "avatar": {
+                "small": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/small/4345_0978.jpg?1550621039",
+                "thumb": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/thumb/4345_0978.jpg?1550621039",
+                "medium": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/medium/4345_0978.jpg?1550621039",
+                "xlarge": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/026/027/xlarge/4345_0978.jpg?1550621039"
+              },
+              "is_discontinued": 0,
+              "is_hidden_from_search": 0,
+              "confirmed": 1,
+              "tax_id": "26314",
+              "bundle": false,
+              "amount": 0,
+              "badges": [],
+              "quantity": 0,
+              "score": 14.29109,
+              "order": 8
+            }
+          ],
+          "total_score": 36.9418147,
+          "total": 4,
+          "max_score": 36.9418147,
+          "min_score": 4.3785467,
+          "score": 9,
+          "self": "/api/products?location_id=6&text=hostess%20donettes&class=Bread"
+        }
+      }
+    }
+  }
