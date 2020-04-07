@@ -14,11 +14,7 @@ In the GOPUFF_SEARCH folder, install cypress:
 
 To run test in the cypress UI:
 
-`npx cypress open`
-
-Or to run test command line:
-
-`npx cypress run`
+`npx cypress open` or `npm run cypress`
 
 **Notes about the Project**
 The biggest thing is I struggled with the location services. I tried a few different methods trying to mock/control this (setting cookies, turning on and off location from the browser, mocking the location API calls), but I must be missing something. I also was unable to navigate directly to the #categories hash to start the test at search because of the re-direct.
