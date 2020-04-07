@@ -2,7 +2,9 @@
 
 ## Instructions
 
-Install NodeJS from https://nodejs.org/ (or verify version is > 8)
+Install NodeJS from https://nodejs.org/ 
+
+(or verify existing version is > 8)
 
 `node --version`
 
@@ -32,3 +34,4 @@ So to be clear what I wanted to do was:
 3) Return canned search results for predictable API results (which I **was** able to do)
 
 As a note: I sometimes get a popup from location about requiring a zip code despite the data being the same as the last address that was entered. This seems to happen randomly and I can get it to happen when I run the site on my own outside of the tests, so I haven't dealt with it in the test. It seems to be an issue to me? If this occurs, please try to run again.
+
