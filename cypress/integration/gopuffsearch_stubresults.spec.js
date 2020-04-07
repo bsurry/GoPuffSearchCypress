@@ -24,13 +24,15 @@ describe('Beth Surry Go Puff Search Test ', ()=> {
         }).as('hostessResults')//stub so when you when search for abc - return a result of 14 items, Philly location
 
         cy.route({
-            method: 'GET', 
+            method: 'GET',
+ 
             url: 'https://prodcat.gopuff.com/api/search?facet_limit=1&text=abc&facet=class&location_id=-1&device_id=web',  
             response: 'fixture:gopuff_hostessresults.json'  
         }).as('hostessResults')//stub so when you when search for abc - return a result of 14 items, no delivery location
 
         cy.route({
             method: 'GET', 
+            status: '500', 
             url: 'https://prodcat.gopuff.com/api/search?facet_limit=1&text=blank&facet=class&location_id=6&device_id=web',  
             response: []
         }).as('blankResult')//stub so when you when search for blank - return empty json, Philly location
@@ -43,7 +45,7 @@ describe('Beth Surry Go Puff Search Test ', ()=> {
 
         //get to the search page
         cy.visit('/')
-        cy.get('.c-moments__control > .c-control > .c-control__input').click()
+        cy.get('.c-moments__control > .c-control > .c-control__input').click()        
         cy.get('#mapAddAdddress').click() 
 
     })
@@ -86,8 +88,7 @@ describe('Beth Surry Go Puff Search Test ', ()=> {
         cy.get('#product-search').type("blank")
         cy.wait('@blankResult')
         cy.get('.search_error').should('be.visible')
-    })
-    
+    })  
 })
 
 
